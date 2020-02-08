@@ -26,7 +26,7 @@ public class Gift {
 		System.out.println("             The gifts are sorted based on weight                        ");
 		System.out.println("--------------------------------------------------------------------");
 		System.out.println("S.No"+"\t"+"Name"+"\t\t"+"Weight"+"\t\t"+"Sugar content"+"\t"+"Cost");
-		System.out.println("---------------------------------------------------------------------");
+		System.out.println("--------------------------------------------------------------------");
 		for(int i=0;i<4;i++) {
 			System.out.println((i+1)+"\t"+s1[i].nameOfSweet+"\t\t"+s1[i].weightOfSweet+"gm\t\t"+s1[i].sugarContentOfSweet+"g\t\t"+s1[i].costOfSweet+"rs");
 		}
