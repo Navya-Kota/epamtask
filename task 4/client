@@ -1,4 +1,4 @@
-package CMRIT.Snehith.Task4;
+package CMRIT.Navya.Task4;
 
 import java.util.Scanner;
 import org.apache.logging.log4j.LogManager;
